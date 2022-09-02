@@ -36,5 +36,6 @@
 ![jsyoon-tdi](https://github-readme-stats.vercel.app/api?username=jsyoon-tdi&show_icons=true&theme=city_lights&card_width=100&count_private=true)
 ![seonhu-park](https://github-readme-stats.vercel.app/api?username=seonhu-park&show_icons=true&theme=city_lights&card_width=100&count_private=true)
 ![sunday00tdi](https://github-readme-stats.vercel.app/api?username=sunday00tdi&show_icons=true&theme=city_lights&card_width=100&count_private=true)
+![sebioh](https://github-readme-stats.vercel.app/api?username=sebioh&show_icons=true&theme=city_lights&card_width=100&count_private=true)
  
 
