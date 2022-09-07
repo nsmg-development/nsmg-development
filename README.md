@@ -25,7 +25,7 @@
 
 ![nsmg-hongseop-kim](https://github-readme-stats.vercel.app/api?username=nsmg-hongseop-kim&show_icons=true&theme=city_lights&card_width=100&count_private=true)
 ![hbkim1](https://github-readme-stats.vercel.app/api?username=hbkim1&show_icons=true&theme=city_lights&card_width=100&count_private=true)
-![orgebattle](https://github-readme-stats.vercel.app/api?username=orgebattle&show_icons=true&theme=city_lights&card_width=100&count_private=true)
+![orge-tdi](https://github-readme-stats.vercel.app/api?username=orge-tdi&show_icons=true&theme=city_lights&card_width=100&count_private=true)
 ![minias](https://github-readme-stats.vercel.app/api?username=minias-tdi&show_icons=true&theme=city_lights&card_width=100&count_private=true)
 ![jbk](https://github-readme-stats.vercel.app/api?username=jbk-nsmg21&show_icons=true&theme=city_lights&card_width=100&count_private=true)
 ![SaemheeKim](https://github-readme-stats.vercel.app/api?username=SaemheeKim&show_icons=true&theme=city_lights&card_width=100&count_private=true)
